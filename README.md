@@ -24,7 +24,7 @@ This project demonstrates how marketing agencies can establish a strong online p
 
 ## Live Demo
 
-marketing-agency-4f5a75.netlify.app
+https://marketing-agency-4f5a75.netlify.app
 
 ## Author
 Shifa Fatima 
